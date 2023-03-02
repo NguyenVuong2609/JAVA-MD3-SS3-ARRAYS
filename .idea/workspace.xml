@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4ea0e0-2dcb-46c5-ab84-5e8f23b55ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT6_SumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT7_SumMatrixCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT8_CountCharInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BT6_SumMatrix">
+  <component name="RunManager" selected="Application.BT8_CountCharInString">
     <configuration name="BT3_MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rikkei.BT3_MergeArray" />
       <module name="MD3-SS3-ARRAYS" />
@@ -67,19 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BT5_FindMinNumberInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.BT5_FindMinNumberInput" />
-      <module name="MD3-SS3-ARRAYS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rikkei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BT6_SumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rikkei.BT6_SumMatrix" />
       <module name="MD3-SS3-ARRAYS" />
@@ -93,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH2_Yen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH2_Yen" />
+    <configuration name="BT7_SumMatrixCross" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT7_SumMatrixCross" />
+      <module name="MD3-SS3-ARRAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT8_CountCharInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT8_CountCharInString" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT8_CountCharInString" />
+        <item itemvalue="Application.BT7_SumMatrixCross" />
         <item itemvalue="Application.BT6_SumMatrix" />
         <item itemvalue="Application.BT4_FindMaxNumberInMatrix" />
         <item itemvalue="Application.BT3_MergeArray" />
-        <item itemvalue="Application.TH2_Yen" />
-        <item itemvalue="Application.BT5_FindMinNumberInput" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677726730827</updated>
-      <workItem from="1677726732153" duration="19275000" />
+      <workItem from="1677726732153" duration="21039000" />
     </task>
     <servers />
   </component>
