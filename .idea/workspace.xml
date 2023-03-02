@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4ea0e0-2dcb-46c5-ab84-5e8f23b55ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/TH2_Find_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/TH3_Find_The_Max_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/TH4_Convert_Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/TH5_Find_Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/TH6_Count_Student_Pass_Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT2_AddArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT5_FindMinNumberInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rikkei/TH1_Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/TH1_Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/BT1_DeleteArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/BT1_DeleteArrayElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
@@ -44,9 +42,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TH6_Count_Student_Pass_Exam">
-    <configuration name="TH2_Find_Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH2_Find_Target" />
+  <component name="RunManager" selected="Application.BT5_FindMinNumberInput">
+    <configuration name="BT1_DeleteArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT1_DeleteArrayElement" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH3_Find_The_Max_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH3_Find_The_Max_Number" />
+    <configuration name="BT2_AddArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT2_AddArrayElement" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH4_Convert_Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH4_Convert_Temperature" />
+    <configuration name="BT5_FindMinNumberInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT5_FindMinNumberInput" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT5_FindMinNumberInput" />
+        <item itemvalue="Application.BT2_AddArrayElement" />
+        <item itemvalue="Application.BT1_DeleteArrayElement" />
         <item itemvalue="Application.TH6_Count_Student_Pass_Exam" />
         <item itemvalue="Application.TH5_Find_Min" />
-        <item itemvalue="Application.TH4_Convert_Temperature" />
-        <item itemvalue="Application.TH3_Find_The_Max_Number" />
-        <item itemvalue="Application.TH2_Find_Target" />
       </list>
     </recent_temporary>
   </component>
@@ -128,11 +126,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677726730827</updated>
-      <workItem from="1677726732153" duration="4214000" />
+      <workItem from="1677726732153" duration="10938000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
