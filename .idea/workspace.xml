@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc4ea0e0-2dcb-46c5-ab84-5e8f23b55ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT7_SumMatrixCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT8_CountCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT9_Find2ndMaxNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +35,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -41,20 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BT8_CountCharInString">
-    <configuration name="BT3_MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.BT3_MergeArray" />
-      <module name="MD3-SS3-ARRAYS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rikkei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BT9_Find2ndMaxNum">
     <configuration name="BT4_FindMaxNumberInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rikkei.BT4_FindMaxNumberInMatrix" />
       <module name="MD3-SS3-ARRAYS" />
@@ -107,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BT9_Find2ndMaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT9_Find2ndMaxNum" />
+      <module name="MD3-SS3-ARRAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT9_Find2ndMaxNum" />
         <item itemvalue="Application.BT8_CountCharInString" />
         <item itemvalue="Application.BT7_SumMatrixCross" />
         <item itemvalue="Application.BT6_SumMatrix" />
         <item itemvalue="Application.BT4_FindMaxNumberInMatrix" />
-        <item itemvalue="Application.BT3_MergeArray" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +131,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677726730827</updated>
-      <workItem from="1677726732153" duration="21039000" />
+      <workItem from="1677726732153" duration="21257000" />
+      <workItem from="1677769033373" duration="3301000" />
     </task>
     <servers />
   </component>
