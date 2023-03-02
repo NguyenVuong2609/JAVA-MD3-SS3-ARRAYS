@@ -21,6 +21,10 @@ public class BT5_FindMinNumberInput {
             i++;
         }
         int result = minValue(array);
+        System.out.println("Các phần tử trong mảng là: ");
+        for (int item: array) {
+            System.out.print(item + "\t");
+        }
         System.out.println("Phần tử nhỏ nhất là: " + array[result]);
     }
 

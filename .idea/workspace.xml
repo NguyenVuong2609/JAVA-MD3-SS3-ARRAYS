@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4ea0e0-2dcb-46c5-ab84-5e8f23b55ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT2_AddArrayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT5_FindMinNumberInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT3_MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/BT4_FindMaxNumberInMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rikkei/BT1_DeleteArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/BT1_DeleteArrayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/BT5_FindMinNumberInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/BT5_FindMinNumberInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BT5_FindMinNumberInput">
-    <configuration name="BT1_DeleteArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.BT1_DeleteArrayElement" />
+  <component name="RunManager" selected="Application.BT4_FindMaxNumberInMatrix">
+    <configuration name="BT2_AddArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT2_AddArrayElement" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +56,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BT2_AddArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.BT2_AddArrayElement" />
+    <configuration name="BT3_MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT3_MergeArray" />
+      <module name="MD3-SS3-ARRAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BT4_FindMaxNumberInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.BT4_FindMaxNumberInMatrix" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -82,21 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TH5_Find_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH5_Find_Min" />
-      <module name="MD3-SS3-ARRAYS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Rikkei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TH6_Count_Student_Pass_Exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rikkei.TH6_Count_Student_Pass_Exam" />
+    <configuration name="TH2_Yen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.TH2_Yen" />
       <module name="MD3-SS3-ARRAYS" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT4_FindMaxNumberInMatrix" />
+        <item itemvalue="Application.BT3_MergeArray" />
+        <item itemvalue="Application.TH2_Yen" />
         <item itemvalue="Application.BT5_FindMinNumberInput" />
         <item itemvalue="Application.BT2_AddArrayElement" />
-        <item itemvalue="Application.BT1_DeleteArrayElement" />
-        <item itemvalue="Application.TH6_Count_Student_Pass_Exam" />
-        <item itemvalue="Application.TH5_Find_Min" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677726730827</updated>
-      <workItem from="1677726732153" duration="10938000" />
+      <workItem from="1677726732153" duration="17207000" />
     </task>
     <servers />
   </component>
